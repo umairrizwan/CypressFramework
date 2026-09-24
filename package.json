@@ -16,7 +16,7 @@
     "@faker-js/faker": "^8.0.2",
     "cypress": "^13.1.0",
     "jsonpath-plus": "^7.2.0",
-    "mocha": "^10.2.0",
+    "mocha": "^10.8.2",
     "mysql": "^2.18.1"
   },
   "devDependencies": {
